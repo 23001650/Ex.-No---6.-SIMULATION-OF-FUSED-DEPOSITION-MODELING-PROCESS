@@ -24,6 +24,6 @@
 
 ### Name: SUNIL KUMAR T
 ### Register Number: 23001650
-
+![Alt text](<Screenshot 2023-12-16 210644.png>)
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
